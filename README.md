@@ -1,6 +1,6 @@
 # BlinkIT Grocery Dashboard
 
-This project showcases a comprehensive dashboard built in Excel to analyze sales and product data for BlinkIT, an Indian last-minute grocery app. The dashboard offers insights into sales performance, item popularity, outlet characteristics, and other key metrics.
+This project showcases a comprehensive dashboard built in Power BI to analyze sales and product data for BlinkIT, an Indian last-minute grocery app. The dashboard offers insights into sales performance, item popularity, outlet characteristics, and other key metrics.
 
 ## Overview
 
